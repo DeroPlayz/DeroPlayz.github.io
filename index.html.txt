@@ -2,7 +2,7 @@
 <html>
 <body>
 
-Persona	Level 	Strength	Magic	Endurance 	Agility 	Luck	Phys	Gun	Fire	Ice 	Elec	Wind	Psy	Nuke	Bless	Curse	Arcana	Shadow	Extra Note
+<t>Persona	Level 	Strength	Magic	Endurance 	Agility 	Luck	Phys	Gun	Fire	Ice 	Elec	Wind	Psy	Nuke	Bless	Curse	Arcana	Shadow	Extra Note
 Abaddon	73	51	42	58	38	43	Dr	Dr	-	-	-	-	-	-	Rs	Dr	Judgement	Abyssal King of Avarice	
 Adam Kadmon	???	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Councillor	-	Maruki's Second Tier Persona
 Agathion	3	3	4	5	7	3	-	Rs	-	-	Rs	Wk	-	-	-	-	Chariot	Apprentice in a Jug	
@@ -261,6 +261,6 @@ Yoshitsune	87	63	52	50	54	49	Nu	-	Rs	-	Rp	-	-	-	Rp	-	Tower	Begrudging Warrior Ar
 Yurlungur	43	26	29	30	27	24	-	-	-	-	Nu	-	Wk	-	Rs	-	Sun	-	
 Zaou-Gongen	80	57	45	50	56	39	-	-	Rp	-	Wk	-	-	-	Nu	Nu	Strength	Angry Warrior	Strongest Persona of the Strength Arcana
 Zorro	1	2	3	1	3	1	-	-	-	-	Wk	Rs	-	-	-	-	Magician	-	Morgana's Initial Persona
-Zouchouten	31	22	19	24	18	17	Rs	-	-	-	-	Wk	-	-	-	-	Strength	-	
+Zouchouten	31	22	19	24	18	17	Rs	-	-	-	-	Wk	-	-	-	-	Strength	-	</t>
 </body>
 </html>
