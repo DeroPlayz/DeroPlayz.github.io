@@ -7,7 +7,7 @@
   border-collapse: collapse;
   width: 100%;}
 </style>
-<link rel="icon" href="favicon.ico" />
+<link rel="icon" type="image/png" href="favicon.ico" />
 </head>
 <body>
 <h2>Bad Persona 5 Royal Fusion Calculator</h2>
@@ -82,28 +82,47 @@
   </tr>
   <tr>
         <td>Agathion</td>
-	<td>3</td>)
-	<td>3</td>)
-	<td>4</td>)
-	<td>5</td>)
-	<td>7</td>)
-	<td>3</td>)
-	<td>-</td>)
-	<td>Rs</td>)
-	<td>-</td>)
-	<td>-</td>)
-	<td>Rs</td>)
-	<td>Wk</td>)
-	<td>-</td>)
-	<td>-</td>)
-	<td>-</td>)
-	<td>-</td>)
-	<td>Chariot</td>)
-	<td>Apprentice in a Jug</td>)
-	<td></td>)
+	<td>3</td>
+	<td>3</td>
+	<td>4</td>
+	<td>5</td>
+	<td>7</td>
+	<td>3</td>
+	<td>-</td>
+	<td>Rs</td>
+	<td>-</td>
+	<td>-</td>
+	<td>Rs</td>
+	<td>Wk</td>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+	<td>Chariot</td>
+	<td>Apprentice in a Jug</td>
+	<td></td>
   </tr>
   <tr>
-        <td>Agnes</td>	<td>Inherit</td>)	<td>Inherit</td>)	<td>Inherit</td>)	<td>Inherit</td>)	<td>Inherit</td>)	<td>Inherit</td>)	<td>-</td>)	<td>-</td>)	<td>-</td>)	<td>-</td>)	<td>-</td>)	<td>-</td>)	<td>Wk</td>)	<td>Nu</td>)	<td>-</td>)	<td>Rs</td>)	<td>Priestess</td>)	<td>-</td>)	<td>Makoto's Third Tier Persona</td>)
+     <td>Agnes</td>
+	 <td>Inherit</td>
+	 <td>Inherit</td>
+	 <td>Inherit</td>
+	 <td>Inherit</td>
+	 <td>Inherit</td>
+	 <td>Inherit</td>
+	 <td>-</td>
+	 <td>-</td>
+	 <td>-</td>
+	 <td>-</td>
+	 <td>-</td>
+	 <td>-</td>
+	 <td>Wk</td>
+	 <td>Nu</td>
+	 <td>-</td>
+	 <td>Rs</td>
+	 <td>Priestess</td>
+	 <td>-</td>
+	 <td>Makoto's Third Tier Persona</td>
   </tr>
   <tr>
     <td>Laughing Bacchus Winecellars</td>
