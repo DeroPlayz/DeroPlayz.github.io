@@ -10,7 +10,6 @@ table {
   border-collapse: collapse;
   width: 100%;
   color: #659ACF;
-  font: Bubblegum;
 }
 
 td, th {
@@ -28,9 +27,12 @@ tr:nth-child(even) {
 </head>
 <body>
 <h2>Bad Persona 5 Royal Fusion Calculator</h2>
+<script>
 
 <table>
-  <tr>
+	<table class=”searchable”>
+	<table class=”sort”>
+	<thead>
     <th>Persona</th>
     <th>Level</th>
     <th>Strength</th>
@@ -51,9 +53,8 @@ tr:nth-child(even) {
     <th>Arcana</th>
     <th>Shadow</th>
     <th>Notes</th>
-    
-  </tr>
-  <tr>
+	</thead>
+	<tbody>
     <td>Abaddon</td>
 	<td>73</td>
 	<td>51</td>
@@ -118,28 +119,28 @@ tr:nth-child(even) {
 	<td>Chariot</td>
 	<td>Apprentice in a Jug</td>
 	<td></td>
-  </tr>
-  <tr>
-     <td>Agnes</td>
-	 <td>Inherit</td>
-	 <td>Inherit</td>
-	 <td>Inherit</td>
-	 <td>Inherit</td>
-	 <td>Inherit</td>
-	 <td>Inherit</td>
-	 <td>-</td>
-	 <td>-</td>
-	 <td>-</td>
-	 <td>-</td>
-	 <td>-</td>
-	 <td>-</td>
-	 <td>Wk</td>
-	 <td>Nu</td>
-	 <td>-</td>
-	 <td>Rs</td>
-	 <td>Priestess</td>
-	 <td>-</td>
-	 <td>Makoto's Third Tier Persona</td>
+	</tr>
+	<tr>
+	<td>Agnes</td>
+	<td>Inherit</td>
+	<td>Inherit</td>
+	<td>Inherit</td>
+	<td>Inherit</td>
+	<td>Inherit</td>
+	<td>Inherit</td>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+	<td>Wk</td>
+	<td>Nu</td>
+	<td>-</td>
+	<td>Rs</td>
+	<td>Priestess</td>
+	<td>-</td>
+	<td>Makoto's Third Tier Persona</td>
   </tr>
   <tr>
     <td>Al Azif</td>
@@ -542,8 +543,8 @@ tr:nth-child(even) {
 <tr>	    <td>Yurlungur</td>	    <td>43</td>	    <td>26</td>	    <td>29</td>	    <td>30</td>	    <td>27</td>	    <td>24</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>Nu</td>	    <td>-</td>	    <td>Wk</td>	    <td>-</td>	    <td>Rs</td>	    <td>-</td>	    <td>Sun</td>	    <td>-</td>	    <td></td>	</tr>
 <tr>	    <td>Zaou-Gongen</td>	    <td>80</td>	    <td>57</td>	    <td>45</td>	    <td>50</td>	    <td>56</td>	    <td>39</td>	    <td>-</td>	    <td>-</td>	    <td>Rp</td>	    <td>-</td>	    <td>Wk</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>Nu</td>	    <td>Nu</td>	    <td>Strength</td>	    <td>Angry Warrior</td>	    <td>Strongest Persona of the Strength Arcana</td>	</tr>
 <tr>	    <td>Zorro</td>	    <td>1</td>	    <td>2</td>	    <td>3</td>	    <td>1</td>	    <td>3</td>	    <td>1</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>Wk</td>	    <td>Rs</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>Magician</td>	    <td>-</td>	    <td>Morgana's Initial Persona</td>	</tr>
-<tr>	    <td>Zouchouten</td>	    <td>31</td>	    <td>22</td>	    <td>19</td>	    <td>24</td>	    <td>18</td>	    <td>17</td>	    <td>Rs</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>Wk</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>Strength</td>	    <td>-</td>	    <td></td>	</tr>
-	
+<tr>	    <td>Zouchouten</td>	    <td>31</td>	    <td>22</td>	    <td>19</td>	    <td>24</td>	    <td>18</td>	    <td>17</td>	    <td>Rs</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>Wk</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>Strength</td>	    <td>-</td>	    <td></td>	
+</tbody>	
 </table>
 
 </body>
