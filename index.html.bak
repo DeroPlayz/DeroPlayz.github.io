@@ -27,8 +27,6 @@ tr:nth-child(even) {
 </head>
 <body>
 <h2>Bad Persona 5 Royal Fusion Calculator</h2>
-<script>
-
 <table>
 	<table class=”searchable”>
 	<table class=”sort”>
