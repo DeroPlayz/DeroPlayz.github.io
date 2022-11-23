@@ -1,8 +1,0 @@
-@font-face {
-    font-family: Bubblegum;
-    src: url(Bubblegum.ttf);
-}
-
-body{
-	font-family: Bubblegum;
-}
