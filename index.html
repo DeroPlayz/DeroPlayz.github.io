@@ -26,11 +26,35 @@ tr:nth-child(even) {
 </style>
 </head>
 <body>
-<h2>Bad Persona 5 Royal Fusion Calculator</h2>
+<script>
+const
+  myButtonSort  = document.querySelector('#my-button-sort')
+, colSelector   = document.querySelector('#sel-col')
+, myTable_tBody = document.querySelector('#my-table > tbody')
+  ;
+myButtonSort.onclick = _ =>
+  {
+  let col = parseInt(colSelector.value ); 
+  [...myTable_tBody.querySelectorAll('tr')]
+    .map(row=>({row, str:row.cells[col].textContent }))
+    .sort((a,b)=>a.str.localeCompare(b.str))
+    .forEach(el=>
+      {
+      myTable_tBody.appendChild(el.row)
+      })
+  }
+</script>
+	<script>
+	<select id="sel-col">
+	<option value="0">Persona</option>
+	<option value="1">Level</option>
+	</select>
 
-<table>
-	<table class=”searchable”>
-	<table class=”sort”>
+	<button id="my-button-sort">sort</button>
+	</script>
+	<h2>Bad Persona 5 Royal Fusion Calculator</h2>
+	<table>
+	<table id="my-table">
 	<thead>
     <th>Persona</th>
     <th>Level</th>
@@ -543,6 +567,7 @@ tr:nth-child(even) {
 <tr>	    <td>Zaou-Gongen</td>	    <td>80</td>	    <td>57</td>	    <td>45</td>	    <td>50</td>	    <td>56</td>	    <td>39</td>	    <td>-</td>	    <td>-</td>	    <td>Rp</td>	    <td>-</td>	    <td>Wk</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>Nu</td>	    <td>Nu</td>	    <td>Strength</td>	    <td>Angry Warrior</td>	    <td>Strongest Persona of the Strength Arcana</td>	</tr>
 <tr>	    <td>Zorro</td>	    <td>1</td>	    <td>2</td>	    <td>3</td>	    <td>1</td>	    <td>3</td>	    <td>1</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>Wk</td>	    <td>Rs</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>Magician</td>	    <td>-</td>	    <td>Morgana's Initial Persona</td>	</tr>
 <tr>	    <td>Zouchouten</td>	    <td>31</td>	    <td>22</td>	    <td>19</td>	    <td>24</td>	    <td>18</td>	    <td>17</td>	    <td>Rs</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>Wk</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>-</td>	    <td>Strength</td>	    <td>-</td>	    <td></td>	
+</tr>
 </tbody>	
 </table>
 
