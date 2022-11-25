@@ -1,8 +1,0 @@
-@font-face {
-    font-family: BUBBS___;
-    src: url(BUBBS___.ttf);
-}
-
-table{
-	font: BUBBS___;
-}

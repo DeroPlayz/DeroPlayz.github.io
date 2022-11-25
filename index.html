@@ -3,7 +3,6 @@
 <head>
 <title>Bad Persona 5 Royal Fusion Calculator</title>
 <link rel="icon" type="image/png" href="favicon.ico" />
-<link rel="stylesheet" href="style.css">
 <style>
 table {
   font-family: arial, sans-serif;
@@ -26,33 +25,13 @@ tr:nth-child(even) {
 </style>
 </head>
 <body>
-<script>
-const
-  myButtonSort  = document.querySelector('#my-button-sort')
-, colSelector   = document.querySelector('#sel-col')
-, myTable_tBody = document.querySelector('#my-table > tbody')
-  ;
-myButtonSort.onclick = _ =>
-  {
-  let col = parseInt(colSelector.value ); 
-  [...myTable_tBody.querySelectorAll('tr')]
-    .map(row=>({row, str:row.cells[col].textContent }))
-    .sort((a,b)=>a.str.localeCompare(b.str))
-    .forEach(el=>
-      {
-      myTable_tBody.appendChild(el.row)
-      })
-  }
-</script>
-	<script>
-	<select id="sel-col">
-	<option value="0">Persona</option>
-	<option value="1">Level</option>
-	</select>
-
-	<button id="my-button-sort">sort</button>
-	</script>
 	<h2>Bad Persona 5 Royal Fusion Calculator</h2>
+	<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#about">About</a>
+  <a href="#contact">Contact</a>
+  <input type="text" placeholder="Search..">
+	</div>
 	<table>
 	<table id="my-table">
 	<thead>
