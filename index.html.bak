@@ -146,249 +146,534 @@ body {
     <th>Arcana</th>
     <th>Shadow</th>
     <th>Notes</th>
-    <td class="persona">Abaddon</td>
-	<tr>
-	<td class="persona">Adam Kadmon</td>
-	<td>73</td>
-	<td>51</td>
-	<td>42</td>
-	<td>58</td>
-	<td>38</td>
-	<td>43</td>
-	<td>Dr</td>
-	<td>Dr</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>Rs</td>
-	<td>Dr</td>
-	<td>Judgement</td>
-	<td>Abyssal King of Avarice</td>
-	<td></td>
-  </tr>
-  <tr>
-    <td class="persona">Adam Kadmon</td>
-	<td>???</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>Councillor</td>
-	<td>-</td>
-	<td>Maruki's Second Tier Persona</td>
 	</tr>
-	<tr>
-    <td class="persona">Agathion</td>
-	<td>3</td>
-	<td>3</td>
-	<td>4</td>
-	<td>5</td>
-	<td>7</td>
-	<td>3</td>
-	<td>-</td>
-	<td>Rs</td>
-	<td>-</td>
-	<td>-</td>
-	<td>Rs</td>
-	<td>Wk</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>Chariot</td>
-	<td>Apprentice in a Jug</td>
-	<td></td>
-	</tr>
-	<tr>
-	<td class="persona">Agnes</td>
-	<td>Inherit</td>
-	<td>Inherit</td>
-	<td>Inherit</td>
-	<td>Inherit</td>
-	<td>Inherit</td>
-	<td>Inherit</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>Wk</td>
-	<td>Nu</td>
-	<td>-</td>
-	<td>Rs</td>
-	<td>Priestess</td>
-	<td>-</td>
-	<td>Makoto's Third Tier Persona</td>
-  </tr>
-  <tr>
-    <td>Al Azif</td>
-	<td>Inherit</td>
-	<td>Inherit</td>
-	<td>Inherit</td>
-	<td>Inherit</td>
-	<td>Inherit</td>
-	<td>Inherit</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
-	<td>Hermit</td>
-	<td>-</td>
-	<td>Futaba's Third Tier Persona</td>
-  </tr>
-  <tr>
-    <td>Alice</td>
-    <td>83</td>
-    <td>45</td>
-    <td>61</td>
-    <td>49</td>
-    <td>54</td>
-    <td>47</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Rs</td>
-    <td>Rs</td>
-    <td>Wk</td>
-    <td>Rp</td>
-    <td>Death</td>
-    <td>Mysterious Little Girl</td>
-    <td>Strongest Persona of the Death Arcana</td>
-  </tr>
-  <tr>
-    <td>Alilat</td>
-    <td>81</td>
-    <td>45</td>
-    <td>54</td>
-    <td>57</td>
-    <td>49</td>
-    <td>45</td>
-    <td>Rp</td>
-    <td>Rp</td>
-    <td>Wk</td>
-    <td>Dr</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Nu</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Wk</td>
-    <td>Empress</td>
-    <td>Decadent False God</td>
-    <td></td>
-	</tr>
-	<tr>
-	<td>Ame-no-Uzume</td>
-    <td>13</td>
-    <td>7</td>
-    <td>10</td>
-    <td>9</td>
-    <td>11</td>
-    <td>9</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Dr</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Wk</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Lovers</td>
-    <td>Captivating Dancer</td>
-    <td></td>
-	</tr>
-	<tr>
-    <td>Ananta</td>
-    <td>44</td>
-    <td>26</td>
-    <td>30</td>
-    <td>31</td>
-    <td>27</td>
-    <td>25</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Dr</td>
-    <td>Wk</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Councillor</td>
-    <td>-</td>
-    <td></td>
-    </tr>
-	<tr>
-    <td>Anat</td>
-    <td>Inherit</td>
-    <td>Inherit</td>
-    <td>Inherit</td>
-    <td>Inherit</td>
-    <td>Inherit</td>
-    <td>Inherit</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Wk</td>
-    <td>Nu</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Priestess</td>
-    <td>-</td>
-    <td>Makoto's Second Tier Persona</td>
-    </tr>
-	<tr>
-    <td>Angel</td>
-    <td>9</td>
-    <td>6</td>
-    <td>9</td>
-    <td>5</td>
-    <td>9</td>
-    <td>5</td>
-    <td>-</td>
-    <td>Wk</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Rs</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Nu</td>
-    <td>Wk</td>
-    <td>Justice</td>
-    <td>Zealous Messenger</td>
-    <td></td>
-    </tr>
-</table>
+    <td class="persona">Abaddon</td><tr>
+<td class="persona">Adam Kadmon</td><tr>
+<td class="persona">Agathion</td><tr>
+<td class="persona">Agnes</td><tr>
+<td class="persona">Al Azif</td><tr>
+<td class="persona">Alice</td><tr>
+<td class="persona">Alilat</td><tr>
+<td class="persona">Ame-no-Uzume</td><tr>
+<td class="persona">Ananta</td><tr>
+<td class="persona">Anat</td><tr>
+<td class="persona">Andras</td><tr>
+<td class="persona">Angel</td><tr>
+<td class="persona">Anubis</td><tr>
+<td class="persona">Anzu</td><tr>
+<td class="persona">Apsaras</td><tr>
+<td class="persona">Ara Mitama</td><tr>
+<td class="persona">Arahabaki</td><tr>
+<td class="persona">Archangel</td><tr>
+<td class="persona">Ardha</td><tr>
+<td class="persona">Ariadne </td><tr>
+<td class="persona">Ariadne Picaro </td><tr>
+<td class="persona">Arsène</td><tr>
+<td class="persona">Astarte</td><tr>
+<td class="persona">Asterius </td><tr>
+<td class="persona">Asterius Picaro </td><tr>
+<td class="persona">Asura</td><tr>
+<td class="persona">Atavaka</td><tr>
+<td class="persona">Athena </td><tr>
+<td class="persona">Athena Picaro </td><tr>
+<td class="persona">Atropos</td><tr>
+<td class="persona">Attis</td><tr>
+<td class="persona">Azathoth</td><tr>
+<td class="persona">Baal</td><tr>
+<td class="persona">Baphomet</td><tr>
+<td class="persona">Barong</td><tr>
+<td class="persona">Beelzebub</td><tr>
+<td class="persona">Belial</td><tr>
+<td class="persona">Belphegor</td><tr>
+<td class="persona">Berith</td><tr>
+<td class="persona">Bicorn</td><tr>
+<td class="persona">Bishamonten</td><tr>
+<td class="persona">Black Frost</td><tr>
+<td class="persona">Black Ooze</td><tr>
+<td class="persona">Black Rider</td><tr>
+<td class="persona">Bugs</td><tr>
+<td class="persona">Byakhee</td><tr>
+<td class="persona">Byakko</td><tr>
+<td class="persona">Cait Sith</td><tr>
+<td class="persona">Captain Kidd</td><tr>
+<td class="persona">Carmen</td><tr>
+<td class="persona">Célestine</td><tr>
+<td class="persona">Cendrillon</td><tr>
+<td class="persona">Cerberus</td><tr>
+<td class="persona">Chernobog</td><tr>
+<td class="persona">Chi You</td><tr>
+<td class="persona">Chimera</td><tr>
+<td class="persona">Choronzon</td><tr>
+<td class="persona">Clotho</td><tr>
+<td class="persona">Crystal Skull</td><tr>
+<td class="persona">Cu Chulainn</td><tr>
+<td class="persona">Cybele</td><tr>
+<td class="persona">Daisoujou</td><tr>
+<td class="persona">Dakini</td><tr>
+<td class="persona">Decarabia</td><tr>
+<td class="persona">Diego</td><tr>
+<td class="persona">Dionysus</td><tr>
+<td class="persona">Dominion</td><tr>
+<td class="persona">Eligor</td><tr>
+<td class="persona">Ella</td><tr>
+<td class="persona">Emperor's Amulet</td><tr>
+<td class="persona">Fafnir</td><tr>
+<td class="persona">Flauros</td><tr>
+<td class="persona">Forneus</td><tr>
+<td class="persona">Fortuna</td><tr>
+<td class="persona">Futsunushi</td><tr>
+<td class="persona">Fuu-Ki</td><tr>
+<td class="persona">Gabriel</td><tr>
+<td class="persona">Ganesha</td><tr>
+<td class="persona">Garuda</td><tr>
+<td class="persona">Genbu</td><tr>
+<td class="persona">Girimehkala</td><tr>
+<td class="persona">Goemon</td><tr>
+<td class="persona">Gorokichi</td><tr>
+<td class="persona">Hanuman</td><tr>
+<td class="persona">Hariti</td><tr>
+<td class="persona">Hastur</td><tr>
+<td class="persona">Hecate</td><tr>
+<td class="persona">Hecatoncheires</td><tr>
+<td class="persona">Hell Biker</td><tr>
+<td class="persona">Hereward</td><tr>
+<td class="persona">High Pixie</td><tr>
+<td class="persona">Hope Diamond</td><tr>
+<td class="persona">Horus</td><tr>
+<td class="persona">Hua Po</td><tr>
+<td class="persona">Incubus</td><tr>
+<td class="persona">Inugami</td><tr>
+<td class="persona">Ippon-Datara</td><tr>
+<td class="persona">Ishtar</td><tr>
+<td class="persona">Isis</td><tr>
+<td class="persona">Izanagi </td><tr>
+<td class="persona">Izanagi Picaro </td><tr>
+<td class="persona">Izanagi-no-Okami </td><tr>
+<td class="persona">Izanagi-no-Okami Picaro </td><tr>
+<td class="persona">Jack Frost</td><tr>
+<td class="persona">Jack-o'-Lantern</td><tr>
+<td class="persona">Jatayu</td><tr>
+<td class="persona">Jikokuten</td><tr>
+<td class="persona">Johanna</td><tr>
+<td class="persona">Kaguya </td><tr>
+<td class="persona">Kaguya Picaro </td><tr>
+<td class="persona">Kaiwan</td><tr>
+<td class="persona">Kali</td><tr>
+<td class="persona">Kelpie</td><tr>
+<td class="persona">Kikuri-Hime</td><tr>
+<td class="persona">Kin-Ki</td><tr>
+<td class="persona">King Frost</td><tr>
+<td class="persona">Kodama</td><tr>
+<td class="persona">Koh-i-Noor</td><tr>
+<td class="persona">Kohryu</td><tr>
+<td class="persona">Koppa Tengu</td><tr>
+<td class="persona">Koropokkuru</td><tr>
+<td class="persona">Koumokuten</td><tr>
+<td class="persona">Kumbhanda</td><tr>
+<td class="persona">Kurama Tengu</td><tr>
+<td class="persona">Kushi Mitama</td><tr>
+<td class="persona">Kushinada</td><tr>
+<td class="persona">Lachesis</td><tr>
+<td class="persona">Lakshmi</td><tr>
+<td class="persona">Lamia</td><tr>
+<td class="persona">Leanan Sidhe</td><tr>
+<td class="persona">Legion</td><tr>
+<td class="persona">Lilim</td><tr>
+<td class="persona">Lilith</td><tr>
+<td class="persona">Loa</td><tr>
+<td class="persona">Loki</td><tr>
+<td class="persona">Lucifer</td><tr>
+<td class="persona">Lucy</td><tr>
+<td class="persona">Macabre</td><tr>
+<td class="persona">Mada</td><tr>
+<td class="persona">Magatsu-Izanagi </td><tr>
+<td class="persona">Magatsu-Izanagi Picaro </td><tr>
+<td class="persona">Makami</td><tr>
+<td class="persona">Mandrake</td><tr>
+<td class="persona">Mara</td><tr>
+<td class="persona">Maria</td><tr>
+<td class="persona">Matador</td><tr>
+<td class="persona">Melchizedek</td><tr>
+<td class="persona">Mercurius</td><tr>
+<td class="persona">Messiah </td><tr>
+<td class="persona">Messiah Picaro </td><tr>
+<td class="persona">Metatron</td><tr>
+<td class="persona">Michael</td><tr>
+<td class="persona">Milady</td><tr>
+<td class="persona">Mishaguji</td><tr>
+<td class="persona">Mithras</td><tr>
+<td class="persona">Mitra</td><tr>
+<td class="persona">Mokoi</td><tr>
+<td class="persona">Moloch</td><tr>
+<td class="persona">Mot</td><tr>
+<td class="persona">Mother Harlot</td><tr>
+<td class="persona">Mothman</td><tr>
+<td class="persona">Naga</td><tr>
+<td class="persona">Narcissus</td><tr>
+<td class="persona">Nebiros</td><tr>
+<td class="persona">Necronomicon</td><tr>
+<td class="persona">Neko Shogun</td><tr>
+<td class="persona">Nekomata</td><tr>
+<td class="persona">Nigi Mitama</td><tr>
+<td class="persona">Norn</td><tr>
+<td class="persona">Nue</td><tr>
+<td class="persona">Obariyon</td><tr>
+<td class="persona">Oberon</td><tr>
+<td class="persona">Odin</td><tr>
+<td class="persona">Okuninushi</td><tr>
+<td class="persona">Ongyo-Ki</td><tr>
+<td class="persona">Oni</td><tr>
+<td class="persona">Onmoraki</td><tr>
+<td class="persona">Orichalcum</td><tr>
+<td class="persona">Orlov</td><tr>
+<td class="persona">Orobas</td><tr>
+<td class="persona">Orpheus </td><tr>
+<td class="persona">Orpheus F </td><tr>
+<td class="persona">Orpheus F Picaro </td><tr>
+<td class="persona">Orpheus Picaro </td><tr>
+<td class="persona">Orthrus</td><tr>
+<td class="persona">Ose</td><tr>
+<td class="persona">Pale Rider</td><tr>
+<td class="persona">Parvati</td><tr>
+<td class="persona">Pazuzu</td><tr>
+<td class="persona">Phoenix</td><tr>
+<td class="persona">Pisaca</td><tr>
+<td class="persona">Pixie</td><tr>
+<td class="persona">Power</td><tr>
+<td class="persona">Principality</td><tr>
+<td class="persona">Prometheus</td><tr>
+<td class="persona">Queen Mab</td><tr>
+<td class="persona">Queen's Necklace</td><tr>
+<td class="persona">Quetzalcoatl</td><tr>
+<td class="persona">Raja Naga</td><tr>
+<td class="persona">Rakshasa</td><tr>
+<td class="persona">Rangda</td><tr>
+<td class="persona">Raoul</td><tr>
+<td class="persona">Raoul </td><tr>
+<td class="persona">Raphael</td><tr>
+<td class="persona">Red Rider</td><tr>
+<td class="persona">Regent</td><tr>
+<td class="persona">Robin Hood</td><tr>
+<td class="persona">Saki Mitama</td><tr>
+<td class="persona">Sandalphon</td><tr>
+<td class="persona">Sandman</td><tr>
+<td class="persona">Sarasvati</td><tr>
+<td class="persona">Satan</td><tr>
+<td class="persona">Satanael</td><tr>
+<td class="persona">Scathach</td><tr>
+<td class="persona">Seiryu</td><tr>
+<td class="persona">Seiten Taisei</td><tr>
+<td class="persona">Setanta</td><tr>
+<td class="persona">Seth</td><tr>
+<td class="persona">Shiisaa</td><tr>
+<td class="persona">Shiki-Ouji</td><tr>
+<td class="persona">Shiva</td><tr>
+<td class="persona">Siegfried</td><tr>
+<td class="persona">Silky</td><tr>
+<td class="persona">Skadi</td><tr>
+<td class="persona">Slime</td><tr>
+<td class="persona">Sraosha</td><tr>
+<td class="persona">Stone of Scone</td><tr>
+<td class="persona">Succubus</td><tr>
+<td class="persona">Sudama</td><tr>
+<td class="persona">Sui-Ki</td><tr>
+<td class="persona">Surt</td><tr>
+<td class="persona">Susano-o</td><tr>
+<td class="persona">Suzaku</td><tr>
+<td class="persona">Take-Minakata</td><tr>
+<td class="persona">Tam Lin</td><tr>
+<td class="persona">Thanatos </td><tr>
+<td class="persona">Thanatos Picaro </td><tr>
+<td class="persona">Thor</td><tr>
+<td class="persona">Thoth</td><tr>
+<td class="persona">Throne</td><tr>
+<td class="persona">Thunderbird</td><tr>
+<td class="persona">Titania</td><tr>
+<td class="persona">Trumpeter</td><tr>
+<td class="persona">Tsukiyomi </td><tr>
+<td class="persona">Tsukiyomi Picaro</td><tr>
+<td class="persona">Unicorn</td><tr>
+<td class="persona">Uriel</td><tr>
+<td class="persona">Valkyrie</td><tr>
+<td class="persona">Vanadis</td><tr>
+<td class="persona">Vasuki</td><tr>
+<td class="persona">Vishnu</td><tr>
+<td class="persona">Vohu Manah</td><tr>
+<td class="persona">White Rider</td><tr>
+<td class="persona">William</td><tr>
+<td class="persona">Yaksini</td><tr>
+<td class="persona">Yamata-no-Orochi</td><tr>
+<td class="persona">Yatagarasu</td><tr>
+<td class="persona">Yoshitsune</td><tr>
+<td class="persona">Yurlungur</td><tr>
+<td class="persona">Zaou-Gongen</td><tr>
+<td class="persona">Zorro</td><tr>
+<td class="persona">Zouchouten</td><tr>
+</tr>
+<td class="persona">75</td><tr>
+<td class="persona">???</td><tr>
+<td class="persona">3</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">83</td><tr>
+<td class="persona">81</td><tr>
+<td class="persona">13</td><tr>
+<td class="persona">44</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">27</td><tr>
+<td class="persona">9</td><tr>
+<td class="persona">34</td><tr>
+<td class="persona">25</td><tr>
+<td class="persona">11</td><tr>
+<td class="persona">30</td><tr>
+<td class="persona">35</td><tr>
+<td class="persona">14</td><tr>
+<td class="persona">84</td><tr>
+<td class="persona">30</td><tr>
+<td class="persona">42</td><tr>
+<td class="persona">1</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">56</td><tr>
+<td class="persona">62</td><tr>
+<td class="persona">76</td><tr>
+<td class="persona">65</td><tr>
+<td class="persona">46</td><tr>
+<td class="persona">50</td><tr>
+<td class="persona">39</td><tr>
+<td class="persona">82</td><tr>
+<td class="persona">???</td><tr>
+<td class="persona">82</td><tr>
+<td class="persona">58</td><tr>
+<td class="persona">52</td><tr>
+<td class="persona">87</td><tr>
+<td class="persona">82</td><tr>
+<td class="persona">37</td><tr>
+<td class="persona">9</td><tr>
+<td class="persona">4</td><tr>
+<td class="persona">67</td><tr>
+<td class="persona">67</td><tr>
+<td class="persona">18</td><tr>
+<td class="persona">59</td><tr>
+<td class="persona">49</td><tr>
+<td class="persona">70</td><tr>
+<td class="persona">45</td><tr>
+<td class="persona">5</td><tr>
+<td class="persona">4</td><tr>
+<td class="persona">5</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">75</td><tr>
+<td class="persona">55</td><tr>
+<td class="persona">62</td><tr>
+<td class="persona">88</td><tr>
+<td class="persona">74</td><tr>
+<td class="persona">28</td><tr>
+<td class="persona">27</td><tr>
+<td class="persona">50</td><tr>
+<td class="persona">76</td><tr>
+<td class="persona">83</td><tr>
+<td class="persona">40</td><tr>
+<td class="persona">50</td><tr>
+<td class="persona">32</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">71</td><tr>
+<td class="persona">68</td><tr>
+<td class="persona">16</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">35</td><tr>
+<td class="persona">86</td><tr>
+<td class="persona">19</td><tr>
+<td class="persona">63</td><tr>
+<td class="persona">46</td><tr>
+<td class="persona">86</td><tr>
+<td class="persona">23</td><tr>
+<td class="persona">77</td><tr>
+<td class="persona">53</td><tr>
+<td class="persona">52</td><tr>
+<td class="persona">7</td><tr>
+<td class="persona">43</td><tr>
+<td class="persona">15</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">64</td><tr>
+<td class="persona">40</td><tr>
+<td class="persona">84</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">42</td><tr>
+<td class="persona">37</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">16</td><tr>
+<td class="persona">40</td><tr>
+<td class="persona">47</td><tr>
+<td class="persona">9</td><tr>
+<td class="persona">5</td><tr>
+<td class="persona">14</td><tr>
+<td class="persona">13</td><tr>
+<td class="persona">85</td><tr>
+<td class="persona">26</td><tr>
+<td class="persona">20</td><tr>
+<td class="persona">23</td><tr>
+<td class="persona">80</td><tr>
+<td class="persona">89</td><tr>
+<td class="persona">11</td><tr>
+<td class="persona">2</td><tr>
+<td class="persona">51</td><tr>
+<td class="persona">22</td><tr>
+<td class="persona">21</td><tr>
+<td class="persona">16</td><tr>
+<td class="persona">25</td><tr>
+<td class="persona">36</td><tr>
+<td class="persona">63</td><tr>
+<td class="persona">6</td><tr>
+<td class="persona">40</td><tr>
+<td class="persona">25</td><tr>
+<td class="persona">61</td><tr>
+<td class="persona">11</td><tr>
+<td class="persona">25</td><tr>
+<td class="persona">76</td><tr>
+<td class="persona">11</td><tr>
+<td class="persona">9</td><tr>
+<td class="persona">49</td><tr>
+<td class="persona">42</td><tr>
+<td class="persona">31</td><tr>
+<td class="persona">12</td><tr>
+<td class="persona">42</td><tr>
+<td class="persona">35</td><tr>
+<td class="persona">69</td><tr>
+<td class="persona">26</td><tr>
+<td class="persona">19</td><tr>
+<td class="persona">38</td><tr>
+<td class="persona">32</td><tr>
+<td class="persona">60</td><tr>
+<td class="persona">70</td><tr>
+<td class="persona">75</td><tr>
+<td class="persona">93</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">73</td><tr>
+<td class="persona">90</td><tr>
+<td class="persona">44</td><tr>
+<td class="persona">48</td><tr>
+<td class="persona">15</td><tr>
+<td class="persona">3</td><tr>
+<td class="persona">73</td><tr>
+<td class="persona">93</td><tr>
+<td class="persona">17</td><tr>
+<td class="persona">58</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">81</td><tr>
+<td class="persona">90</td><tr>
+<td class="persona">89</td><tr>
+<td class="persona">87</td><tr>
+<td class="persona">36</td><tr>
+<td class="persona">52</td><tr>
+<td class="persona">39</td><tr>
+<td class="persona">33</td><tr>
+<td class="persona">9</td><tr>
+<td class="persona">60</td><tr>
+<td class="persona">72</td><tr>
+<td class="persona">85</td><tr>
+<td class="persona">33</td><tr>
+<td class="persona">24</td><tr>
+<td class="persona">48</td><tr>
+<td class="persona">74</td><tr>
+<td class="persona">31</td><tr>
+<td class="persona">30</td><tr>
+<td class="persona">17</td><tr>
+<td class="persona">22</td><tr>
+<td class="persona">52</td><tr>
+<td class="persona">20</td><tr>
+<td class="persona">8</td><tr>
+<td class="persona">66</td><tr>
+<td class="persona">84</td><tr>
+<td class="persona">54</td><tr>
+<td class="persona">89</td><tr>
+<td class="persona">20</td><tr>
+<td class="persona">12</td><tr>
+<td class="persona">60</td><tr>
+<td class="persona">30</td><tr>
+<td class="persona">17</td><tr>
+<td class="persona">26</td><tr>
+<td class="persona">11</td><tr>
+<td class="persona">13</td><tr>
+<td class="persona">29</td><tr>
+<td class="persona">21</td><tr>
+<td class="persona">42</td><tr>
+<td class="persona">54</td><tr>
+<td class="persona">56</td><tr>
+<td class="persona">45</td><tr>
+<td class="persona">21</td><tr>
+<td class="persona">28</td><tr>
+<td class="persona">2</td><tr>
+<td class="persona">41</td><tr>
+<td class="persona">29</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">43</td><tr>
+<td class="persona">15</td><tr>
+<td class="persona">66</td><tr>
+<td class="persona">55</td><tr>
+<td class="persona">24</td><tr>
+<td class="persona">48</td><tr>
+<td class="persona">76</td><tr>
+<td class="persona">76</td><tr>
+<td class="persona">78</td><tr>
+<td class="persona">41</td><tr>
+<td class="persona">10</td><tr>
+<td class="persona">45</td><tr>
+<td class="persona">6</td><tr>
+<td class="persona">75</td><tr>
+<td class="persona">23</td><tr>
+<td class="persona">50</td><tr>
+<td class="persona">92</td><tr>
+<td class="persona">95</td><tr>
+<td class="persona">77</td><tr>
+<td class="persona">62</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">25</td><tr>
+<td class="persona">51</td><tr>
+<td class="persona">15</td><tr>
+<td class="persona">18</td><tr>
+<td class="persona">82</td><tr>
+<td class="persona">84</td><tr>
+<td class="persona">6</td><tr>
+<td class="persona">53</td><tr>
+<td class="persona">10</td><tr>
+<td class="persona">80</td><tr>
+<td class="persona">20</td><tr>
+<td class="persona">7</td><tr>
+<td class="persona">17</td><tr>
+<td class="persona">24</td><tr>
+<td class="persona">83</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">16</td><tr>
+<td class="persona">26</td><tr>
+<td class="persona">27</td><tr>
+<td class="persona">65</td><tr>
+<td class="persona">69</td><tr>
+<td class="persona">64</td><tr>
+<td class="persona">36</td><tr>
+<td class="persona">72</td><tr>
+<td class="persona">34</td><tr>
+<td class="persona">56</td><tr>
+<td class="persona">59</td><tr>
+<td class="persona">50</td><tr>
+<td class="persona">55</td><tr>
+<td class="persona">39</td><tr>
+<td class="persona">81</td><tr>
+<td class="persona">44</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">68</td><tr>
+<td class="persona">83</td><tr>
+<td class="persona">80</td><tr>
+<td class="persona">38</td><tr>
+<td class="persona">Inherit</td><tr>
+<td class="persona">20</td><tr>
+<td class="persona">64</td><tr>
+<td class="persona">57</td><tr>
+<td class="persona">87</td><tr>
+<td class="persona">43</td><tr>
+<td class="persona">80</td><tr>
+<td class="persona">1</td><tr>
+<td class="persona">31</td><tr>
+	
+	
+	</table>
 </body>
 </html>
