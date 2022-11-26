@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Bad Persona 5 Royal Fusion Calculator</title>
-<link rel="icon" type="image/png" href="favicon.ico" />
+<link rel=icon type=image/png href=favicon.ico />
 <style>
 table {
   font-family: arial, sans-serif;
@@ -101,30 +101,22 @@ body {
 <body>
 	<h2>Bad Persona 5 Royal Fusion Calculator</h2>
 	<script>
-	function search_persona() {
+	function search_"persona"() {
     let input = document.getElementById('searchbar').value
     input=input.toLowerCase();
-    let x = document.getElementsByClassName('persona');
+    let x = document.getElementsByClassName('"persona"');
       
     for (i = 0; i < x.length; i++) { 
         if (!x[i].innerHTML.toLowerCase().includes(input)) {
-            x[i].style.display="none";
+            x[i].style.display=none;
         }
         else {
-            x[i].style.display="list-item";                 
+            x[i].style.display=list-item;                 
         }
     }
 }
 </script>
-<!--<div class="topnav">
-	<div class="search-container">
-    <form action="/action_page.php">
-      <input type="text" placeholder="Search.." name="search">
-      <button type="submit">Submit</button>
-    </form>
-	</div>
-	</div>-->
-	<input id="searchbar" onkeyup="search_persona()" type="text" name="search" placeholder="Search Personas">
+	<input id=searchbar onkeyup=search_"persona"() type=text name=search placeholder=Search Personas>
 	<table>
 	<th>Persona</th>
 		<th>Level</th>
@@ -148,7 +140,7 @@ body {
 		<th>Notes</th>
 		<tr>	
 		
-    <td class="persona">Abaddon</td>
+    <td class=""persona"">Abaddon</td>
 		<td>75</td>
 		<td>51</td>
 		<td>42</td>
@@ -388,510 +380,510 @@ body {
 	<tr>
 	
 	<td class="persona">Angel</td>
-        <td>9</td>	"
-        <td>6</td>"	"
-        <td>9</td>"	"
-        <td>5</td>"	"
-        <td>9</td>"	"
-        <td>5</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Rs</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Nu</td>"	"
-        <td>Wk</td>"	"
-        <td>Justice</td>"	"
-        <td>Zealous Messenger</td>"	"
-        <td></td>"	"
-    <tr>"
+        <td>9</td>	
+        <td>6</td>	
+        <td>9</td>	
+        <td>5</td>	
+        <td>9</td>	
+        <td>5</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Rs</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Nu</td>	
+        <td>Wk</td>	
+        <td>Justice</td>	
+        <td>Zealous Messenger</td>	
+        <td></td>	
+    <tr>
 	<td class="persona">Anubis</td>
-        <td>34</td>	"
-        <td>19</td>"	"
-        <td>24</td>"	"
-        <td>22</td>"	"
-        <td>21</td>"	"
-        <td>23</td>"	"
-        <td>-</td>"	"
-        <td>Rs</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Rs</td>"	"
-        <td>-</td>"	"
-        <td>Nu</td>"	"
-        <td>Nu</td>"	"
-        <td>Judgement</td>"	"
-        <td>Bearer of the Scales</td>"	"
-        <td></td>"	"
-    <tr>"
+        <td>34</td>	
+        <td>19</td>	
+        <td>24</td>	
+        <td>22</td>	
+        <td>21</td>	
+        <td>23</td>	
+        <td>-</td>	
+        <td>Rs</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Rs</td>	
+        <td>-</td>	
+        <td>Nu</td>	
+        <td>Nu</td>	
+        <td>Judgement</td>	
+        <td>Bearer of the Scales</td>	
+        <td></td>	
+    <tr>
 
 	<td class="persona">Anzu</td>
-        <td>25</td>	"
-        <td>14</td>"	"
-        <td>18</td>"	"
-        <td>15</td>"	"
-        <td>21</td>"	"
-        <td>14</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Rs</td>"	"
-        <td>Rp</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Hierophant</td>"	"
-        <td>Thief of Tablets</td>"	"
-        <td></td>"	"
+        <td>25</td>	
+        <td>14</td>	
+        <td>18</td>	
+        <td>15</td>	
+        <td>21</td>	
+        <td>14</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Rs</td>	
+        <td>Rp</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Hierophant</td>	
+        <td>Thief of Tablets</td>	
+        <td></td>	
     <tr>
-"
+
 	<td class="persona">Apsaras</td>
-        <td>11</td>	"
-        <td>7</td>"	"
-        <td>11</td>"	"
-        <td>6</td>"	"
-        <td>10</td>"	"
-        <td>6</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>Rs</td>"	"
-        <td>Wk</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Priestess</td>"	"
-        <td>Waterside Nymph</td>"	"
-        <td></td>"	"
+        <td>11</td>	
+        <td>7</td>	
+        <td>11</td>	
+        <td>6</td>	
+        <td>10</td>	
+        <td>6</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>Rs</td>	
+        <td>Wk</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Priestess</td>	
+        <td>Waterside Nymph</td>	
+        <td></td>	
     <tr>
-"
+
 	<td class="persona">Ara Mitama</td>
-        <td>30</td>	"
-        <td>20</td>"	"
-        <td>18</td>"	"
-        <td>20</td>"	"
-        <td>20</td>"	"
-        <td>19</td>"	"
-        <td>Rs</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Chariot</td>"	"
-        <td>-</td>"	"
-        <td></td>"	"
+        <td>30</td>	
+        <td>20</td>	
+        <td>18</td>	
+        <td>20</td>	
+        <td>20</td>	
+        <td>19</td>	
+        <td>Rs</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Chariot</td>	
+        <td>-</td>	
+        <td></td>	
     <tr>
-"
+
 	<td class="persona">Arahabaki</td>
-        <td>35</td>	"
-        <td>21</td>"	"
-        <td>23</td>"	"
-        <td>22</td>"	"
-        <td>24</td>"	"
-        <td>22</td>"	"
-        <td>Rp</td>"	"
-        <td>Rp</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>Wk</td>"	"
-        <td>Rs</td>"	"
-        <td>Rs</td>"	"
-        <td>Hermit</td>"	"
-        <td>Awakened God</td>"	"
-        <td></td>"	"
+        <td>35</td>	
+        <td>21</td>	
+        <td>23</td>	
+        <td>22</td>	
+        <td>24</td>	
+        <td>22</td>	
+        <td>Rp</td>	
+        <td>Rp</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>Wk</td>	
+        <td>Rs</td>	
+        <td>Rs</td>	
+        <td>Hermit</td>	
+        <td>Awakened God</td>	
+        <td></td>	
     <tr>
-"
+
 	<td class="persona">Archangel</td>
-        <td>14</td>	"
-        <td>11</td>"	"
-        <td>9</td>"	"
-        <td>10</td>"	"
-        <td>12</td>"	"
-        <td>7</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Nu</td>"	"
-        <td>Wk</td>"	"
-        <td>Justice</td>"	"
-        <td>Heavenly Punisher</td>"	"
-        <td></td>"	"
+        <td>14</td>	
+        <td>11</td>	
+        <td>9</td>	
+        <td>10</td>	
+        <td>12</td>	
+        <td>7</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Nu</td>	
+        <td>Wk</td>	
+        <td>Justice</td>	
+        <td>Heavenly Punisher</td>	
+        <td></td>	
     <tr>
-"
+
 	<td class="persona">Ardha</td>
-        <td>84</td>	"
-        <td>54</td>"	"
-        <td>56</td>"	"
-        <td>55</td>"	"
-        <td>54</td>"	"
-        <td>40</td>"	"
-        <td>Rs</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Nu</td>"	"
-        <td>Nu</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Temperance</td>"	"
-        <td>-</td>"	"
-        <td>Strongest Persona of the Temperance Arcana</td>"	"
+        <td>84</td>	
+        <td>54</td>	
+        <td>56</td>	
+        <td>55</td>	
+        <td>54</td>	
+        <td>40</td>	
+        <td>Rs</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Nu</td>	
+        <td>Nu</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Temperance</td>	
+        <td>-</td>	
+        <td>Strongest Persona of the Temperance Arcana</td>	
     <tr>
-"
+
 	<td class="persona">Ariadne </td>
-        <td>30</td>	"
-        <td>23</td>"	"
-        <td>19</td>"	"
-        <td>20</td>"	"
-        <td>17</td>"	"
-        <td>18</td>"	"
-        <td>-</td>"	"
-        <td>Rs</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>Nu</td>"	"
-        <td>Rs</td>"	"
-        <td>-</td>"	"
-        <td>Fortune</td>"	"
-        <td>-</td>"	"
-        <td>Paid DLC.</td>"	"
+        <td>30</td>	
+        <td>23</td>	
+        <td>19</td>	
+        <td>20</td>	
+        <td>17</td>	
+        <td>18</td>	
+        <td>-</td>	
+        <td>Rs</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>Nu</td>	
+        <td>Rs</td>	
+        <td>-</td>	
+        <td>Fortune</td>	
+        <td>-</td>	
+        <td>Paid DLC.</td>	
     <tr>
-"
+
 	<td class="persona">Ariadne Picaro </td>
-        <td>42</td>	"
-        <td>36</td>"	"
-        <td>23</td>"	"
-        <td>29</td>"	"
-        <td>24</td>"	"
-        <td>21</td>"	"
-        <td>-</td>"	"
-        <td>Rs</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>Nu</td>"	"
-        <td>Rs</td>"	"
-        <td>-</td>"	"
-        <td>Fortune</td>"	"
-        <td>-</td>"	"
-        <td>Paid DLC</td>"	"
+        <td>42</td>	
+        <td>36</td>	
+        <td>23</td>	
+        <td>29</td>	
+        <td>24</td>	
+        <td>21</td>	
+        <td>-</td>	
+        <td>Rs</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>Nu</td>	
+        <td>Rs</td>	
+        <td>-</td>	
+        <td>Fortune</td>	
+        <td>-</td>	
+        <td>Paid DLC</td>	
     <tr>
-"
+
 	<td class="persona">Arsène</td>
-        <td>1</td>	"
-        <td>2</td>"	"
-        <td>2</td>"	"
-        <td>2</td>"	"
-        <td>3</td>"	"
-        <td>1</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>Rs</td>"	"
-        <td>Fool</td>"	"
-        <td>-</td>"	"
-        <td>Joker's Initial Persona</td>"	"
+        <td>1</td>	
+        <td>2</td>	
+        <td>2</td>	
+        <td>2</td>	
+        <td>3</td>	
+        <td>1</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>Rs</td>	
+        <td>Fool</td>	
+        <td>-</td>	
+        <td>Joker's Initial Persona</td>	
     <tr>
-"
+
 	<td class="persona">Astarte</td>
-        <td>Inherit</td>	"
-        <td>Inherit</td>"	"
-        <td>Inherit</td>"	"
-        <td>Inherit</td>"	"
-        <td>Inherit</td>"	"
-        <td>Inherit</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Nu</td>"	"
-        <td>Wk</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Empress</td>"	"
-        <td>-</td>"	"
-        <td>Haru's Second Tier Persona</td>"	"
+        <td>Inherit</td>	
+        <td>Inherit</td>	
+        <td>Inherit</td>	
+        <td>Inherit</td>	
+        <td>Inherit</td>	
+        <td>Inherit</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Nu</td>	
+        <td>Wk</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Empress</td>	
+        <td>-</td>	
+        <td>Haru's Second Tier Persona</td>	
     <tr>
-"
+
 	<td class="persona">Asterius </td>
-        <td>56</td>	"
-        <td>43</td>"	"
-        <td>43</td>"	"
-        <td>32</td>"	"
-        <td>32</td>"	"
-        <td>25</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Rs</td>"	"
-        <td>Wk</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Rs</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Nu</td>"	"
-        <td>Fortune</td>"	"
-        <td>-</td>"	"
-        <td>Paid DLC</td>"	"
+        <td>56</td>	
+        <td>43</td>	
+        <td>43</td>	
+        <td>32</td>	
+        <td>32</td>	
+        <td>25</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Rs</td>	
+        <td>Wk</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Rs</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Nu</td>	
+        <td>Fortune</td>	
+        <td>-</td>	
+        <td>Paid DLC</td>	
     <tr>
-"
+
 	<td class="persona">Asterius Picaro </td>
-        <td>62</td>	"
-        <td>46</td>"	"
-        <td>46</td>"	"
-        <td>36</td>"	"
-        <td>36</td>"	"
-        <td>29</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Rs</td>"	"
-        <td>Wk</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Rs</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Nu</td>"	"
-        <td>Fortune</td>"	"
-        <td>-</td>"	"
-        <td>Paid DLC</td>"	"
+        <td>62</td>	
+        <td>46</td>	
+        <td>46</td>	
+        <td>36</td>	
+        <td>36</td>	
+        <td>29</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Rs</td>	
+        <td>Wk</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Rs</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Nu</td>	
+        <td>Fortune</td>	
+        <td>-</td>	
+        <td>Paid DLC</td>	
     <tr>
-"
+
 	<td class="persona">Asura</td>
-        <td>76</td>	"
-        <td>52</td>"	"
-        <td>48</td>"	"
-        <td>51</td>"	"
-        <td>49</td>"	"
-        <td>35</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Nu</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>Rp</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Sun</td>"	"
-        <td>-</td>"	"
-        <td>Strongest Persona of the Sun Arcana</td>"	"
+        <td>76</td>	
+        <td>52</td>	
+        <td>48</td>	
+        <td>51</td>	
+        <td>49</td>	
+        <td>35</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Nu</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>Rp</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Sun</td>	
+        <td>-</td>	
+        <td>Strongest Persona of the Sun Arcana</td>	
     <tr>
-"
+
 	<td class="persona">Atavaka</td>
-        <td>65</td>	"
-        <td>51</td>"	"
-        <td>36</td>"	"
-        <td>43</td>"	"
-        <td>38</td>"	"
-        <td>34</td>"	"
-        <td>Rs</td>"	"
-        <td>Nu</td>"	"
-        <td>Rp</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Rs</td>"	"
-        <td>Faith</td>"	"
-        <td>Infuriated Wisdom King</td>"	"
-        <td></td>"	"
+        <td>65</td>	
+        <td>51</td>	
+        <td>36</td>	
+        <td>43</td>	
+        <td>38</td>	
+        <td>34</td>	
+        <td>Rs</td>	
+        <td>Nu</td>	
+        <td>Rp</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Rs</td>	
+        <td>Faith</td>	
+        <td>Infuriated Wisdom King</td>	
+        <td></td>	
     <tr>
-"
+
 	<td class="persona">Athena </td>
-        <td>46</td>	"
-        <td>33</td>"	"
-        <td>27</td>"	"
-        <td>29</td>"	"
-        <td>29</td>"	"
-        <td>27</td>"	"
-        <td>Rs</td>"	"
-        <td>Nu</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Chariot</td>"	"
-        <td>-</td>"	"
-        <td>Paid DLC</td>"	"
+        <td>46</td>	
+        <td>33</td>	
+        <td>27</td>	
+        <td>29</td>	
+        <td>29</td>	
+        <td>27</td>	
+        <td>Rs</td>	
+        <td>Nu</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Chariot</td>	
+        <td>-</td>	
+        <td>Paid DLC</td>	
     <tr>
-"
+
 	<td class="persona">Athena Picaro </td>
-        <td>50</td>	"
-        <td>35</td>"	"
-        <td>30</td>"	"
-        <td>31</td>"	"
-        <td>32</td>"	"
-        <td>29</td>"	"
-        <td>Rs</td>"	"
-        <td>Nu</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Chariot</td>"	"
-        <td>-</td>"	"
-        <td>Paid DLC</td>"	"
+        <td>50</td>	
+        <td>35</td>	
+        <td>30</td>	
+        <td>31</td>	
+        <td>32</td>	
+        <td>29</td>	
+        <td>Rs</td>	
+        <td>Nu</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Chariot</td>	
+        <td>-</td>	
+        <td>Paid DLC</td>	
     <tr>
-"
+
 	<td class="persona">Atropos</td>
-        <td>39</td>	"
-        <td>23</td>"	"
-        <td>30</td>"	"
-        <td>22</td>"	"
-        <td>27</td>"	"
-        <td>22</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Nu</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Fortune</td>"	"
-        <td>-</td>"	"
-        <td></td>"	"
+        <td>39</td>	
+        <td>23</td>	
+        <td>30</td>	
+        <td>22</td>	
+        <td>27</td>	
+        <td>22</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Nu</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Fortune</td>	
+        <td>-</td>	
+        <td></td>	
     <tr>
 
 	<td class="persona">Attis</td>
-        <td>82</td>	"
-        <td>49</td>"	"
-        <td>50</td>"	"
-        <td>48</td>"	"
-        <td>54</td>"	"
-        <td>52</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Nu</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Rp</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>Hanged</td>"	"
-        <td>-</td>"	"
-        <td>Strongest Persona of the Hanged Man Arcana</td>"	"
+        <td>82</td>	
+        <td>49</td>	
+        <td>50</td>	
+        <td>48</td>	
+        <td>54</td>	
+        <td>52</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Nu</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Rp</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>Hanged</td>	
+        <td>-</td>	
+        <td>Strongest Persona of the Hanged Man Arcana</td>	
     <tr>
-"
+
 	<td class="persona">Azathoth</td>
-        <td>???</td>	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Councillor</td>"	"
-        <td>-</td>"	"
-        <td>Maruki's Initial Persona</td>"	"
+        <td>???</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Councillor</td>	
+        <td>-</td>	
+        <td>Maruki's Initial Persona</td>	
     <tr>
-"
+
 	<td class="persona">Baal</td>
-        <td>82</td>	"
-        <td>54</td>"	"
-        <td>58</td>"	"
-        <td>53</td>"	"
-        <td>47</td>"	"
-        <td>41</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Rs</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Dr</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Rs</td>"	"
-        <td>-</td>"	"
-        <td>Emperor</td>"	"
-        <td>Reviled Dictator</td>"	"
-        <td></td>"	"
+        <td>82</td>	
+        <td>54</td>	
+        <td>58</td>	
+        <td>53</td>	
+        <td>47</td>	
+        <td>41</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Rs</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Dr</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Rs</td>	
+        <td>-</td>	
+        <td>Emperor</td>	
+        <td>Reviled Dictator</td>	
+        <td></td>	
     <tr>
-"
+
 	<td class="persona">Baphomet</td>
-        <td>58</td>	"
-        <td>34</td>"	"
-        <td>42</td>"	"
-        <td>36</td>"	"
-        <td>38</td>"	"
-        <td>31</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Rs</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>-</td>"	"
-        <td>Wk</td>"	"
-        <td>Nu</td>"	"
-        <td>Devil</td>"	"
-        <td>Heretic Goat</td>"	"
-        <td></td>"	"
+        <td>58</td>	
+        <td>34</td>	
+        <td>42</td>	
+        <td>36</td>	
+        <td>38</td>	
+        <td>31</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Rs</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>-</td>	
+        <td>Wk</td>	
+        <td>Nu</td>	
+        <td>Devil</td>	
+        <td>Heretic Goat</td>	
+        <td></td>	
     <tr>
-"
+
 	<td class="persona">Barong</td>
 
 	<td class="persona">Beelzebub</td>
